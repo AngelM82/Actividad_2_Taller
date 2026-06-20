@@ -6,7 +6,7 @@ const misPrecios: number[] = [];
 
 async function iniciar() {
     while (true) {
-        console.log('\nMI CAJA');
+        console.log('\n Sistema de iva');
         console.log('1. Poner precio');
         console.log('2. Ver cuenta total');
         console.log('3. Salir');
